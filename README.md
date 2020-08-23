@@ -1,7 +1,7 @@
  Helloooo there 👋
  This is a young Developer who is curious to explore every corner of web development.
 
-- 🔭 Currently working on 2 Web projects.
+- 🔭 Currently working on TaskManagerApp and ChatApp.
 - 🌱 learning Nodejs/Reactjs.
 - 👯 Looking to collaborate on projects related to web development.
 - 💬 Ask me about Javascript.
