@@ -1,7 +1,7 @@
  Helloooo there 👋
  This is a young Developer, curious to explore every corner of web development.
 
-- 🔭 Currently working on TaskManagerApp.
+- 🔭 Currently working on Burger-Builder Project.
 - 🌱 learning Nodejs/Reactjs.
 - 👯 Looking to collaborate on projects related to Web Development.
 - 💬 Ask me about Javascript.
