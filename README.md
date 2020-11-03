@@ -1,11 +1,11 @@
- Helloooo there 👋
- This is a young Developer, curious to explore every corner of web development.
-
-- 🔭 Currently working on Burger-Builder Project.
+  Hellooo there, hope you're doing fine!👋
+  
+    Some things you should know about me :
+- 🔭 Currently working on a Burger-Builder Project.
 - 🌱 learning React-Redux.
 - 👯 Looking to collaborate on projects related to Web Development.
 - 💬 Ask me about Javascript.
-- 📫 How to reach:
+- 📫 To reach me:
      - Linkedin: https://www.linkedin.com/in/kartikey-kesarwani-a89a91194
      - Twitter:  https://twitter.com/TheDeve02225331
                   
