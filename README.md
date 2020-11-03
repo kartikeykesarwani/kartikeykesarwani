@@ -1,6 +1,6 @@
   Hellooo there, hope you're doing fine!👋
   
-    Some things you should know about me :
+    Some things to know about me :
 - 🔭 Currently working on a Burger-Builder Project.
 - 🌱 learning React-Redux.
 - 👯 Looking to collaborate on projects related to Web Development.
