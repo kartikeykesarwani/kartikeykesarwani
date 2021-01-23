@@ -2,7 +2,6 @@
   
     Some things to know about me :
 - 🔭 Currently working on a DevPark Project.
-- 🌱 learning React-Redux.
 - 👯 Looking to collaborate on projects related to Web Development.
 - 💬 Ask me about Javascript.
 - 📫 To reach me: 
