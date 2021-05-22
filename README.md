@@ -1,7 +1,7 @@
   Hellooo there, hope you're doing fine!👋
   
     Some things to know about me :
-- 🔭 Currently working on a frontend project.
+- 🔭 Currently working on frontend project.
 - 👯 Looking to collaborate on projects related to Web Development.
 - 💬 Ask me about Javascript.
 - 📫 To reach me: 
